@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **superpavan54@gmail.com**
 
+- 🧾 Check Out My Resume **https://pavan-54.github.io/Pavan-Portfolio/Resume.pdf**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vattikala-pavan-kalyan-006975204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vattikala-pavan-kalyan-006975204/" height="30" width="40" /></a>
