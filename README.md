@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **superpavan54@gmail.com**
 
-- 🧾 Check Out My Resume **https://pavan-54.github.io/Pavan-Portfolio/VattikalaPavanKalyanResume.pdf**
+- 🧾 Check Out My Resume **https://pavan-54.github.io/Pavan-Portfolio/VattikalaPavanKalyan-Resume.pdf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
