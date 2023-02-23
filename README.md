@@ -10,13 +10,11 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [Pavan-Portfolio](http://pavan-54.github.io/Pavan-Portfolio/)
+- 👨‍💻 All of my projects are available at [Pavan-Portfolio](https://www.pavanvattikala.com/)
 
 - 💬 Ask me about **Full Stack Development**
 
-- 📫 How to reach me **superpavan54@gmail.com**
-
-- 🧾 Check Out My [Resume](https://pavan-54.github.io/Pavan-Portfolio/VattikalaPavanKalyan-Resume.pdf)
+- 📫 How to reach me **pavanvattikala54@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
